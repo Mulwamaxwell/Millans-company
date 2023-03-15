@@ -1,0 +1,18 @@
+.h1{
+    margin-left: 500px;
+}
+body{
+    background-image: url("images/id.html.jpg");
+    background-repeat: no-repeat;
+}
+img{
+    opacity: 0.6;
+    filter: blur(50%);
+    border-radius: 45%;
+}
+.m3{
+    margin: 500px;
+    margin-left: 550px;
+    color: red;
+
+}

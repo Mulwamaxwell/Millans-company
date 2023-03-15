@@ -1,0 +1,18 @@
+table ,th ,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+
+
+}
+.inner{
+    margin: 60px;
+
+}
+table{
+       width: 500px;
+    height: 300px;
+    margin: 60px;
+    margin-left: 300px;
+    background-color: darkgoldenrod;
+}

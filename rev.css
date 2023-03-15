@@ -1,0 +1,32 @@
+*{
+    background-color: wheat;
+    color: wheat;
+}
+
+
+.paragraph{
+    background-color: burlywood;
+    color: red;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-decoration: underline;
+    line-height: 2.5cm;
+    text-indent: 50px;
+    word-spacing: 20px;
+    cursor: crosshair;
+    border: 3px solid grey;
+    outline: goldenrod solid 30px;
+    padding: 20px;
+    margin: 40px;
+
+
+}
+.inner{
+    color: aliceblue;
+}
+ul{
+    list-style-type: circle;
+    list-style-position: outside;
+}
